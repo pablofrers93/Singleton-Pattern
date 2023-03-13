@@ -1,0 +1,11 @@
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\bin\Debug\Consola.exe.config
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\bin\Debug\Consola.exe
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\bin\Debug\Consola.pdb
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\bin\Debug\TP8_EJERCICIO2_POO.dll
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\bin\Debug\TP8_EJERCICIO2_POO.pdb
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\obj\Debug\Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\obj\Debug\Consola.exe
+C:\Users\Pablo\Desktop\REPASO FINAL POO\TP8_EJERCICIO2_POO\Consola\obj\Debug\Consola.pdb
